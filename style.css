@@ -10,7 +10,15 @@ nav{
     align-items: center;
 }
 nav a{
-    color:orange
-    tex-decoratinon: name;
-    
+    color:orange;
+    text-decoration: none;
+}
+
+header{
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-image: url('perry.jpg');
+    background-position: center;
+    border-bottom: 10px orange solid;
 }
